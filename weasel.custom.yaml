@@ -5,6 +5,7 @@ customization:
   modified_time: "Wed Mar  4 15:19:00 2026"
   rime_version: 1.13.1
 patch:
+  "show_notifications": false
   "style/color_scheme": microsoft_pinyin
   "style/horizontal": true
   "style/font_face": "Microsoft YaHei UI"

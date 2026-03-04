@@ -1,9 +1,6 @@
 patch:
   "switches/@1/reset": 1
 
-  # 英文补全：更少字母即可提示完整单词
-  "melt_eng/enable_completion": true
-
   # [] 鍵翻頁（原來 [] 是以詞定字，改為 {} ）
   "key_binder/select_first_character": "braceleft"
   "key_binder/select_last_character": "braceright"
