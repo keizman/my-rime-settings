@@ -1,0 +1,11 @@
+# Rime build cache
+build/
+
+# User databases (binary, machine-specific)
+*.userdb/
+
+# Sync directory
+sync/
+
+# Trash
+trash/
