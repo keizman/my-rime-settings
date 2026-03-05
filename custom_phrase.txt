@@ -47,8 +47,7 @@
 又有	uu
 又又又	uuu
 又双叒叕	uuuu
-吝	lin	1
-吝鋆垚	lin jun yao
+
 
 测试	cs
 go	go

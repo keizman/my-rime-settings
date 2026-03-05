@@ -1,6 +1,9 @@
 patch:
   "switches/@1/reset": 1
 
+  # 关闭 emoji
+  "switches/@3/reset": 0
+
   # [] 鍵翻頁（原來 [] 是以詞定字，改為 {} ）
   "key_binder/select_first_character": "braceleft"
   "key_binder/select_last_character": "braceright"

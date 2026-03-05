@@ -7,4 +7,4 @@ customization:
 patch:
   schema_list:
     - {schema: rime_ice}
-  "menu/page_size": 7
+  "menu/page_size": 8
